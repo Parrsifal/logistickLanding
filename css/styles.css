@@ -790,6 +790,12 @@ body {
     font-size: 0.9rem;
 }
 
+.footer-license {
+    margin-top: 0.5rem;
+    font-size: 0.85rem !important;
+    color: rgba(255, 255, 255, 0.4) !important;
+}
+
 /* Responsive Design */
 @media (max-width: 968px) {
     .nav-links {
